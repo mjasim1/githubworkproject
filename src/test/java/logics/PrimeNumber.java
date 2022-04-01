@@ -19,11 +19,11 @@ public class PrimeNumber
 		
 		if(flag==0)
 		{
-			System.out.println("It is a Prime Number..!!");
+			System.out.println("It is a Prime Number!");
 		}
 		else
 		{
-			System.out.println("It is Not a Prime Number..!!");
+			System.out.println("It is Not a Prime Number!");
 		}
 
 	}
