@@ -5,7 +5,7 @@ public class EvenOdd2
 
 	public static void main(String[] args) 
 	{
-		int x = 25;
+		int x = 35;
 		
 		if(x%2==0)
 		{
