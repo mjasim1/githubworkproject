@@ -1,0 +1,16 @@
+<dependency>
+		<groupId>org.magnitia</groupId>
+		<artifactId>ATUTestRecorder</artifactId>
+		<version>2.1</version>
+		<scope>system</scope>
+		<systemPath>
+		       ${basedir}/src/test/resources/extrajars/ATUTestRecorder_2.1.jar</systemPath>
+	</dependency>
+	<dependency>
+		<groupId>org.magnitia</groupId>
+		<artifactId>ATUReporter_Selenium_testNG</artifactId>
+		<version>5.1.1</version>
+		<scope>system</scope>
+		<systemPath>
+	${basedir}/src/test/resources/extrajars/ATUReporter_Selenium_testNG_5.1.1.jar</systemPath>
+	</dependency>
