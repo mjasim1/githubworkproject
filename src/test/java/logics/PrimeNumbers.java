@@ -28,7 +28,7 @@ public class PrimeNumbers
 				System.out.print(i+"\t");
 			}
 		}
-		System.out.println("=========================");
+		System.out.println("-----------------------------------------------------------");
 		System.out.println("Total Prime number in the given range is: "+count);
 	}
 
