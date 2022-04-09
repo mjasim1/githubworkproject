@@ -7,7 +7,7 @@ public class EvenOdd
 
 	public static void main(String[] args) 
 	{
-		int x = 15;
+		int x = 11;
 		int temp = x/2;
 		
 		if(temp*2==x)
